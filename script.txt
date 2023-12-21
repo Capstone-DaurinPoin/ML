@@ -1,0 +1,4 @@
+python metadata_writer.py \
+    --model_file=model_lawas_v1.tflite \
+    --label_file=labels.txt \
+    --export_directory=./
